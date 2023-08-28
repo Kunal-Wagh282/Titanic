@@ -33,7 +33,7 @@ Here are some of the key findings from my analysis:
 
 I'm always excited to connect with fellow data enthusiasts and learners! Feel free to reach out if you have questions, insights, or just want to discuss this analysis further. Let's collaborate and grow together.
 
-Connect with me on LinkedIn: [Kunal Wagh](www.linkedin.com/in/kunalwagh282)
+Connect with me on LinkedIn: (www.linkedin.com/in/kunalwagh282)
 
 Happy analyzing! 🚢📊
 
